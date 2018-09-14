@@ -40,7 +40,6 @@
                 echo "\nIt is agreed";
             } else {
                 echo "\nIt is not agreed";
-                echo "NO NO NO";
             }
             ?>
             </pre>
